@@ -7,4 +7,5 @@ int main(){
   std::cout << "senoon/nishii!!!" << std::endl;
   std::cout << "ishii" << std::endl;
   std::cout << "Hello" << std::endl;
+  std::cout << "hogehogefoobar" << std::endl;
 }
