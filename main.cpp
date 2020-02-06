@@ -2,14 +2,11 @@
 #include <iostream>
 
 int main(){
-  std::cout << "lists!" << std::endl;
-  std::cout << "ishihara" << std::endl;
-  std::cout << "senoon/nishii!!!" << std::endl;
-  std::cout << "ishii" << std::endl;
-
-  std::cout << "Hello" << std::endl;
-
-  std::cout << "ishii-takanao" << std::endl;
-  std::cout << "hogehogefoobar" << std::endl;
-
+  std::cout << "lists!\n" 
+    << "ishihara\n"
+    << "senoon/nishii!!!\n"
+    << "ishii\n"
+    << "Hello\n"
+    << "ishii-takanao\n"
+    << "hogehogefoobar" << std::endl;
 }
